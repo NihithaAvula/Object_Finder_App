@@ -1,0 +1,44 @@
+body{
+    background-size: cover;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    background-color: grey;
+    line-height: 3;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+}
+
+.heading{
+    font-size: 23px !important;
+    width: 100%;
+    margin: 0;
+    box-shadow: 5px 5px 5px white; 
+}
+
+.note{
+font-size: 18px !important;
+color: black;
+}
+
+label{
+    background-color: white;
+    border-radius: 10px;
+    font-size: 18px;
+    color: crimson;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#object_name{
+    width: 40%;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
